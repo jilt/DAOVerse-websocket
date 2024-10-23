@@ -92,7 +92,7 @@ loadRooms();
 // UTILS
 
 const generateRandomPosition = (room) => {
-    // TO AVOID INFINITE LOOP WE LIMIT TO 100, BEST WOULD BE TO CHECK IF THERE IS ENOUGH SPACE LEFT 🤭
+    // TO AVOID INFINITE LOOP WE LIMIT TO 100 ROOMS, BEST WOULD BE TO CHECK IF THERE IS ENOUGH SPACE LEFT 🤭
     for (let i = 0; i < 100; i++) {
         const x = Math.floor(Math.random() * room.size[0] * room.gridDivision);
         const y = Math.floor(Math.random() * room.size[1] * room.gridDivision);
