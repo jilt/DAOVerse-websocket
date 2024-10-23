@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "PARTY ROOM",
-    "password": "ICP",
+    "password": "DAOVERSE",
     "items": [
       {
         "name": "loungeSofaCorner",
@@ -1222,7 +1222,7 @@
   {
     "id": 2,
     "name": "BATHROOM",
-    "password": "ICP",
+    "password": "DAOVERSE",
     "items": [
       {
         "name": "washer",
@@ -2445,7 +2445,7 @@
   {
     "id": 3,
     "name": "KITCHEN",
-    "password": "ICP",
+    "password": "DAOVERSE",
     "items": [
       {
         "name": "plant",
@@ -3736,7 +3736,7 @@
   {
     "id": 4,
     "name": "COSY ROOM",
-    "password": "ICP",
+    "password": "DAOVERSE",
     "items": [
       {
         "name": "tableCoffee",
