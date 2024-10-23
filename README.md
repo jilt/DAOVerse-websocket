@@ -1,5 +1,5 @@
-# ICP-land-websocket
+# DAOVerse-websocket
 
-Websocket for Internet Computer Metaverse on BitFinity
+Websocket for DAOVerse Metaverse on Arbitrum
 
-This websocket instance allows the ICP-Land metaverse to support remote interactions, please reach out to jilt on the encode clud discord if the instance is offline.
+This websocket instance allows the DAOVerse metaverse to support remote interactions, please reach out to jilt on discord if the instance is offline.
