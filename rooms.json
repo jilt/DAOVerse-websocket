@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "GAMING DAO",
+    "name": "GAMING",
     "password": "DAOVERSE",
     "items": [
       {
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 2,
-    "name": "SECURITY DAO",
+    "name": "SECURITY",
     "password": "DAOVERSE",
     "items": [
       {
@@ -2444,7 +2444,7 @@
   },
   {
     "id": 3,
-    "name": "ART DAO",
+    "name": "CREATORS",
     "password": "DAOVERSE",
     "items": [
       {
@@ -3735,7 +3735,7 @@
   },
   {
     "id": 4,
-    "name": "DEFI DAO",
+    "name": "DEFI",
     "password": "DAOVERSE",
     "items": [
       {
