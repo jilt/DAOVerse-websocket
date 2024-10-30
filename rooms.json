@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "PARTY ROOM",
+    "name": "GAMING DAO",
     "password": "DAOVERSE",
     "items": [
       {
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 2,
-    "name": "BATHROOM",
+    "name": "SECURITY DAO",
     "password": "DAOVERSE",
     "items": [
       {
@@ -2444,7 +2444,7 @@
   },
   {
     "id": 3,
-    "name": "KITCHEN",
+    "name": "ART DAO",
     "password": "DAOVERSE",
     "items": [
       {
@@ -3735,7 +3735,7 @@
   },
   {
     "id": 4,
-    "name": "COSY ROOM",
+    "name": "DEFI DAO",
     "password": "DAOVERSE",
     "items": [
       {
